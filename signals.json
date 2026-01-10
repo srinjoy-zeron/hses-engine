@@ -1,0 +1,10 @@
+{
+    "time_of_day": "Afternoon",
+    "session_length": 45,
+    "Noise_State": 3,
+    "heart_rate": 75,
+    "typing_speed": 60,
+    "mouse_movement_jitter": 0.2,
+    "screen_focus_time": 95,
+    "error_rate": 0.05
+}
