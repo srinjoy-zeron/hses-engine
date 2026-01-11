@@ -1,10 +1,10 @@
-# HES Project (Human Exploitability System)
+# HSES Project (Human Security Exploitability System)
 
 **Initiated by Zeron [zeron.one] Research Team**
 
 ## Overview
 
-The **Human Exploitability System (HES)** is a research project designed to assess and quantify human risk in cybersecurity contexts. By analyzing physiological and behavioral signals, the system calculates a real-time "exploitability score" that reflects an individual's susceptibility to social engineering and other security threats.
+The **Human Security Exploitability System (HSES)** is a research project designed to assess and quantify human risk in cybersecurity contexts. By analyzing physiological and behavioral signals, the system calculates a real-time "exploitability score" that reflects an individual's susceptibility to social engineering and other security threats.
 
 This project combines a Python-based analysis engine with a React-based frontend to visualize risk metrics, state dominance, and potential exploit scenarios.
 
