@@ -92,3 +92,6 @@ This project is an initiative of the **Zeron Research Team**.
 - [KrishRandar](https://github.com/KrishRandar)
 - [faux16](https://github.com/faux16)
 
+### Contribute to the Project
+Thank you for considering contributing to this repository. Please follow the guidelines below to ensure a smooth collaboration. Please follow the [CONTRIBUTING.md](CONTRIBUTING.md)
+
