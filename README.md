@@ -80,6 +80,20 @@ Comprehensive documentation for the project is available in the `docs/` director
 - `ui/`: React frontend application.
 - `utils/`: Helper functions for normalization and parsing.
 - `constants/`: Configuration files for mappings and modifiers.
+- `tests/` : Test file for the modules.
+- `docs/` : Documentations and ONE_PAGER of the HSES Model
+
+## Running Tests
+
+All tests are located in the `tests/` folder. You can run them using the built-in Python `unittest` framework.
+
+### Run all tests
+
+From the project root:
+
+```bash
+python -m tests
+```
 
 ## Credits
 

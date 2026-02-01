@@ -20,9 +20,9 @@ def time_of_day_multiplier(time_str):
     else:                 # late night
         if(minutes < 420) :
           # not to be confused with session length
-          minutes += 24 * 60 - 21 * 60 # agar midnight cross hua hai then
+          minutes += 24 * 60 - 21 * 60 
         else :
-          minutes -= 21 * 60 # agar nahi hua hai
+          minutes -= 21 * 60
         return min(1.3, 1.05 + (minutes) / 600)
 
 
